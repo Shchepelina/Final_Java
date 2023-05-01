@@ -1,0 +1,3 @@
+	ID: 1;  name: Bear;  count: 1;  weight: 10;  bound: 30 Mon May 01 23:48:39 MSK 2023
+	ID: 4;  name: Minion;  count: 59;  weight: 80;  bound: 120 Mon May 01 23:50:37 MSK 2023
+	ID: 25;  name: Toys 369;  count: 6;  weight: 92;  bound: 1374 Mon May 01 23:51:51 MSK 2023
